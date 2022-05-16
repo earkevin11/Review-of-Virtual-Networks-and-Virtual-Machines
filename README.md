@@ -23,5 +23,5 @@
 - Each VM can also have a public IP address, which allows traffic from the VM to flow via the internet. 
 
 # Network Security Groups (Similar to Firewall)
-- Filters traffic into and out of the Virtual Machines
+- Restricts inbound and outbound traffic via Network Security Rules
 - NSGs can be assigned on the NIC or the subnet itself.
