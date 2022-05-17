@@ -25,3 +25,13 @@
 # Network Security Groups (Similar to Firewall)
 - Restricts inbound and outbound traffic via Network Security Rules
 - NSGs can be assigned on the NIC or the subnet itself.
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/168878861-2efd1f48-2751-48e2-a02f-259455832403.png" height="85%" width="85%" alt="review of vnets and VMs"/>
+
+<p/>
+
+
+
+
