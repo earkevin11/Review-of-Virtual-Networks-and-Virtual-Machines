@@ -8,6 +8,7 @@
 - This is an isolated network hosted in the Azure Cloud Infrastructure. 
 - - It is your network but hosted in Azure data centers
 - VNets have an address space and VMs get an IP address within the address space.
+- Each virtual network is isolated from the other virtual network
 
 
 # What is the purpose of Subnets?
