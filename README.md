@@ -4,7 +4,7 @@
 # What are Virtual Networks?
 - VNets are automatically created when VMs are created.
 - VNets are a home for the VMs.
-- You CAN connect Virtual Networks to your on-premises network
+- You CAN connect Virtual Networks to your on-premises network using <str> Azure Express Routes </str>
 - This is an isolated network hosted in the Azure Cloud Infrastructure. 
 - - It is your network but hosted in Azure data centers
 - VNets have an address space and VMs get an IP address within the address space.
