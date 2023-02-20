@@ -4,7 +4,9 @@
 # What are Virtual Networks?
 - VNets are automatically created when VMs are created.
 - VNets are a home for the VMs.
-- This is an isolated network hosted in the Azure Cloud Infrastructure
+- 
+- This is an isolated network hosted in the Azure Cloud Infrastructure. 
+- - It is your network but hosted in Azure data centers
 - VNets have an address space and VMs get an IP address within the address space.
 
 
