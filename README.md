@@ -38,6 +38,7 @@
 
 # What are Service Endpoints?
 - A Virtual network service endpoints provides the *identity* of your virtual network to the Azure service.
+- To learn more - https://github.com/earkevin11/Service-Endpoints
 
 
 
